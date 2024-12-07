@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://emm-archives.github.io"
 
 github:
-  username: github_emm-archives # change to your GitHub username
+  username: emm-archives # change to your GitHub username
 
 twitter:
-  username: twitter_emmjosee # change to your Twitter username
+  username: emmjosee # change to your Twitter username
 
 social:
   # Change to your full name.
