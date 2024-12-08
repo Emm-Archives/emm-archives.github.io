@@ -118,7 +118,7 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
-  giscus:
+  # giscus:
     repo: Emm-Archives/Giscus
     repo_id: R_kgDONamRaw
     category: Design Archives
