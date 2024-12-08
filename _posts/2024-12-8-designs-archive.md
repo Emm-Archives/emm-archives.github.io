@@ -4,6 +4,7 @@ author: Emm
 date: 2024-12-08 00:34:00 +0800
 categories: [Designs, Archive]
 tags: [design, arts, urls]
+comments: true
 ---
 
 > IMPORTANT: For the best experience on Designs & Games Archive, I recommend using [uBlock Origin](https://ublockorigin.com) with the bypass-all-shortlinks-debloated script. These tools will block unnecessary popups and ads, ensuring a smooth and fast browsing experience.
