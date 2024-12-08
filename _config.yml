@@ -118,11 +118,11 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
-  # giscus:
-    repo: Emm-Archives/Giscus
-    repo_id: R_kgDONamRaw
-    category: Design Archives
-    category_id: DIC_kwDONamRa84ClCSi
+  giscus:
+    repo:
+    repo_id:
+    category: 
+    category_id: 
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
