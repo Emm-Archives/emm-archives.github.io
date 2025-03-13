@@ -30,7 +30,7 @@ comments: true
 ### **Color Inspirations and Tools**  
 - ⭐ [Adobe Colors](https://color.adobe.com) - Professional color theme creation.  
 - [Color Palette Contrast Builder](https://toolness.github.io/)  
-- [Colormind](http://colormind.io/) - AI-based color palette tool.  
+- [Colormind](https://colormind.io/) - AI-based color palette tool.  
 - [Coolors](https://coolors.co) - Explore and generate color palettes.  
 - [FoundColor](https://foundcolor.co) - Discover unique color combinations.  
 - [Happy Hues](https://happyhues.co) - Pre-selected color combinations.  
