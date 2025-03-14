@@ -2,7 +2,7 @@
 title: Alternative Softwares
 author: Emm
 date: 2025-03-14 00:34:00 +0800
-categories: [Alternative, Softwares]
+categories: [Apps, Softwares]
 tags: [softwares, urls, alternative]
 comments: true
 ---
