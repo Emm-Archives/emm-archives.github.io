@@ -2,7 +2,7 @@
 title: Date Ideas
 author: Emm
 date: 2025-03-14 00:34:00 +0800
-categories: [Date, Couple]
+categories: [Couples, Date Ideas]
 tags: [date, ideas, couple]
 comments: true
 ---
