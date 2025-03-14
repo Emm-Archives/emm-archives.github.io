@@ -37,7 +37,8 @@ comments: true
 - [Hue Tools](https://hue.tools/) - Color names.  
 - ⭐ [Lospec](https://lospec.com) - Online tools for pixel art and restrictive digital art.  
 - [UiColors](https://uicolors.app) - Generate Tailwind CSS colors.  
-- [UI Gradients](https://uigradients.com/) - Gradient inspiration.  
+- [UI Gradients](https://uigradients.com/) - Gradient inspiration.
+- [Ransom Letter](https://ransom-note.vercel.app) - Create Ransom Letters.
 
 ---  
 
@@ -87,6 +88,7 @@ comments: true
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)  
 - [Velvetyne](https://www.velvetyne.fr/)
 - [FreeFaces](https://www.freefaces.gallery)
+
 ---  
 
 ### **Icons**  
