@@ -2,7 +2,7 @@
 title: Canva Apps
 author: Emm
 date: 2025-03-14 00:34:00 +0800
-categories: [Canva, Apps]
+categories: [Apps, Canva]
 tags: [design, arts, urls, canva]
 comments: true
 ---
