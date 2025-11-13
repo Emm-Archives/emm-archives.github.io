@@ -10,7 +10,7 @@ comments: true
 > IMPORTANT: For the best experience on Designs & Games Archive, I recommend using [uBlock Origin](https://ublockorigin.com) with the bypass-all-shortlinks-debloated script. These tools will block unnecessary popups and ads, ensuring a smooth and fast browsing experience.
 {: .prompt-tip }
 
-> I'm too lazy to write up some descriptions XD
+> LAST UPDATE: November 13, 2025
 {: .prompt-info }
 
 ---
@@ -29,7 +29,7 @@ comments: true
 
 ### **Color Inspirations and Tools**  
 - ⭐ [Adobe Colors](https://color.adobe.com) - Professional color theme creation.  
-- [Color Palette Contrast Builder](https://toolness.github.io/)  
+- [Color Palette Contrast Builder](https://toolness.github.io/accessible-color-matrix/)  
 - [Colormind](https://colormind.io/) - AI-based color palette tool.  
 - [Coolors](https://coolors.co) - Explore and generate color palettes.  
 - [FoundColor](https://foundcolor.co) - Discover unique color combinations.  
@@ -38,19 +38,21 @@ comments: true
 - ⭐ [Lospec](https://lospec.com) - Online tools for pixel art and restrictive digital art.  
 - [UiColors](https://uicolors.app) - Generate Tailwind CSS colors.  
 - [UI Gradients](https://uigradients.com/) - Gradient inspiration.
-- [Ransom Letter](https://ransom-note.vercel.app) - Create Ransom Letters.
+- [Realtime Colors](https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter) - Generate and test color palettes.
 
 ---  
 
 ### **Creative Inspiration**  
 - [A Soft Murmur](https://asoftmurmur.com) - Ambient sounds for focus and relaxation.  
 - [Another Graphic](https://anothergraphic.org) - Design research and inspiration.  
-- ⭐ [Savee.it](https://savee.it) - Bookmark and organize visual inspiration.  
+- ⭐ [Savee.it](https://savee.it) - Bookmark and organize visual inspiration.
+- [60FPS](https://60fps.design) - resource to learn how to create smooth animations for UI and Web Design.
+- [Material](https://m3.material.io) - Google’s open-source design system
 
 ---  
 
 ### **Downloaders**  
--[Cobalt](https://cobalt.tools) - Almost Any Platform
+- [Cobalt](https://cobalt.tools) - Almost Any Platform (currently YT isn't working)
 
 ---
 ### **Design Resources**  
@@ -71,7 +73,8 @@ comments: true
 - [Inkscape](https://inkscape.org) - Vector graphics editor.  
 - [Krita](https://krita.org) - Professional painting program.  
 - [Libresprite](https://libresprite.github.io) - Animate and create sprites.  
-- [Milanote](https://milanote.com) - Organize and plan visually.  
+- [Milanote](https://milanote.com) - Organize and plan visually.
+- [Exalidraw](https://excalidraw.com)
 
 ---  
 
@@ -93,7 +96,7 @@ comments: true
 
 ### **Icons**  
 - [3D Icons](https://3dicons.co/)  
-- [Google Icons](https://fonts.google.com/icons)  
+- ⭐[Google Icons](https://fonts.google.com/icons)  
 - [Icons for AI](https://iconsforai.com/)  
 - [OpenPeeps](https://openpeeps.com) - Hand-drawn illustration library.  
 - [Simple Icons](https://simpleicons.org/) *(Brand logo icons)*  
@@ -101,6 +104,14 @@ comments: true
 - ⭐[Flaticon](https://flaticon.com)
 - [Windows 98](https://github.com/1j01/98/tree/master/images/icons)
 - [Windows 98](https://win98icons.alexmeub.com)
+
+> Newly Added
+
+- [Lordicon](https://lordicon.com)
+- [thenounproject](https://thenounproject.com)
+- [Herocions](https://heroicons.com)
+- [Atlas Icons](https://atlasicons.vectopus.com)
+- [Feather](https://feathericons.com)
 
 ---  
 
@@ -130,7 +141,14 @@ comments: true
 - [Stockvault](https://www.stockvault.net/)  
 - ⭐ [Unsplash](https://unsplash.com) - Free high-resolution stock images.  
 
----  
+---
+
+### **Storage Drives**
+- ⭐[Playbook](https://www.playbook.com) - 100 GB; for artist, you can submit a portfolio to get 4TB.
+- [Filen](https://filen.io/r/d0de95c22b572c06f0af3df4ab4fa0cc) - 20 GB but using this link adds 10 GB.
+- [Mega](https://mega.nz) - 20 GB
+
+---
 
 ### **Typography Tools**  
 - [FontBase](https://fontba.se/) - Font manager.  
@@ -155,9 +173,15 @@ comments: true
 ---
 
 ### **Videos**
-- [Mixkit](https://mixkit.co)
-- [Videvo](https://www.videvo.net/)
-- [Yarn](https://getyarn.io)
+- [Mixkit](https://mixkit.co) - Free assets.
+- [Videvo](https://www.videvo.net/) - Its Freepik but in the videos section.
+- [Yarn](https://getyarn.io) - Clips from Movies, TV, and Music.
+
+---  
+
+### **New Sites to visit**  
+- [CopyChar](https://copychar.cc) - Quick tool for copying special characters and symbols.
+
 
 ---
 
