@@ -82,6 +82,7 @@ comments: true
 | Honey Dressing    | Molineria Bandage + Honey        | Rash. Reduces infection risk          |
 
 ### **Soup and Infusion Guide**
+
 | Type      | Use                                  | Ingredients          | Steps                                                                            | Notes                      |
 | --------- | ------------------------------------ | -------------------- | -------------------------------------------------------------------------------- | -------------------------- |
 | Bone Soup | Fever recovery. Hydration. Nutrients | 1 Bone. 1 Bowl Water | Build Small Campfire. Place Coconut Bowl. Fill with water. Add bone. Boil. Drink | Strong early fever support |
@@ -92,6 +93,7 @@ comments: true
 | Meat Stew | Fast cooking. Higher nutrition | 1 Bowl Water. 1 Fresh Meat | Add meat to water. Boil. Eat | Masks sanity loss from insects. Cooks faster than direct fire |
 
 ### **WildLife Guide**
+
 | Category  | Animal                     | Meat Quality | Location                | Threat Level | Hunt Strategy                | Extra Notes                            |
 | --------- | -------------------------- | ------------ | ----------------------- | ------------ | ---------------------------- | -------------------------------------- |
 | Mammal    | Jaguar                     | Medium       | Jungle                  | Very High    | Spear headshot from distance | One hit kill to head. Listen for growl |
@@ -136,3 +138,4 @@ comments: true
 
 > If you come across any websites that aren't loading, please leave a comment below. Thanks!
 {: .prompt-danger }
+
